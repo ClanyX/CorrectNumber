@@ -1,0 +1,8 @@
+C:\Users\sandi\OneDrive\Dokumenty\PROJEKTY\CorrectNUmber\CorrectNUmber\bin\Debug\CorrectNUmber.exe.config
+C:\Users\sandi\OneDrive\Dokumenty\PROJEKTY\CorrectNUmber\CorrectNUmber\bin\Debug\CorrectNUmber.exe
+C:\Users\sandi\OneDrive\Dokumenty\PROJEKTY\CorrectNUmber\CorrectNUmber\bin\Debug\CorrectNUmber.pdb
+C:\Users\sandi\OneDrive\Dokumenty\PROJEKTY\CorrectNUmber\CorrectNUmber\obj\Debug\CorrectNUmber.csproj.AssemblyReference.cache
+C:\Users\sandi\OneDrive\Dokumenty\PROJEKTY\CorrectNUmber\CorrectNUmber\obj\Debug\CorrectNUmber.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandi\OneDrive\Dokumenty\PROJEKTY\CorrectNUmber\CorrectNUmber\obj\Debug\CorrectNUmber.csproj.CoreCompileInputs.cache
+C:\Users\sandi\OneDrive\Dokumenty\PROJEKTY\CorrectNUmber\CorrectNUmber\obj\Debug\CorrectNUmber.exe
+C:\Users\sandi\OneDrive\Dokumenty\PROJEKTY\CorrectNUmber\CorrectNUmber\obj\Debug\CorrectNUmber.pdb
